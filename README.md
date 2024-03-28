@@ -1,4 +1,4 @@
-# [Panagiotis Vasilakis] - Electrical and Computer Engineer 💻⚡
+# Electrical and Computer Engineer 💻⚡
 
 ## About Me
 
