@@ -32,5 +32,5 @@ I am an undergraduate student at the University of Patras, specializing in Elect
 
 ## Contact Me
 
-Feel free to connect with me on [LinkedIn](#) or visit my [GitHub](#) profile for more information and to view my projects.
+Feel free to connect with me on [LinkedIn](#) or visit my [GitHub](#) profile for more information and to view my projects (some are private).
 
